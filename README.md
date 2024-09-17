@@ -6,11 +6,17 @@ This project performs a sentiment analysis on customer reviews using natural lan
 
 # Libraries Used
 • Pandas: For data manipulation and analysis.
+
 • NumPy : For numerical operations.
+
 • Seaborn : For creating visualizations of the sentiment data.
+
 • Matplotlib : To plot charts and visualize trends.
+
 • WordCloud: To create a word cloud showing frequent terms in the reviews.
+
 • TextBlob: For sentiment analysis.
+
 • Warnings: To ignore warnings during execution.
 
 # Dataset
@@ -28,4 +34,5 @@ Link to the dataset: https://www.kaggle.com/datasets/nelgiriyewithana/shoppersen
 The project produces insightful visualizations, including:
 
 • Sentiment distribution of reviews (positive, negative, and neutral).
+
 • Word cloud of frequently used terms in the reviews.
